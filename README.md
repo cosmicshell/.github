@@ -1,2 +1,3 @@
-# .github
-cosmicshell profile
+# CosmicShell
+
+Profile
